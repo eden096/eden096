@@ -6,20 +6,20 @@
 - 🎓 25학번입니다.
 - 🎂 생일은 2006년 9월 6일입니다.
 
----
+
 
 ## Skills
 
 ![My Skills](https://skillicons.dev/icons?i=py,c,html,css,js)
 
 
----
+
 
 ## Interests
 
 ![My Interests](https://skillicons.dev/icons?i=tensorflow,unity,unrealengine)
 
----
+
 
 ## Contact
 
@@ -27,7 +27,7 @@
 - @eden_096
 - jungeden0906@gmail.com
 
----
+
 ## Statistics
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=eden096&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/eden096/github-readme-stats#gh-dark-mode-only)
