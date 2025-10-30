@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World!)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=Hello%20World!)
 
 ## About Me 👋
 
@@ -45,6 +45,7 @@
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eden096)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
