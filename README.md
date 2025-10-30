@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=Hello%20World!)
 
-## About Me 👋
+<!-- 자기소개-->
+## About Me 👋 
 
 - ✅ 제 이름은 정이든입니다.
 - 🏫 한신대학교에 재학 중입니다.
@@ -11,20 +12,20 @@
 - 💡 MBTI는 INTP입니다.
 
 
-
+<!-- 주요 기술-->
 ## Skills
 
 ![My Skills](https://skillicons.dev/icons?i=py,c,html,css,js)
 
 
 
-
+<!-- 관심 기술-->
 ## Interests
 
 ![My Interests](https://skillicons.dev/icons?i=tensorflow,unity,unrealengine)
 
 
-
+<!-- 연락처-->
 ## Contact
 
 - 010-9885-7796
@@ -32,7 +33,7 @@
 - jungeden0906@gmail.com
 - eden096@hs.ac.kr
 
-
+<!-- 활동 스택택-->
 ## Statistics
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=eden096&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/eden096/github-readme-stats#gh-dark-mode-only)
